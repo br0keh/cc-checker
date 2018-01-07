@@ -8,16 +8,21 @@
 
 ## Installation
 
-Download project [here](https://github.com/viniciusbrokeh/cc-checker/). Install on your website or XAMPP.
+
+```
+1st: Download project [here](https://github.com/viniciusbrokeh/cc-checker/). Install on your website or XAMPP.
+2nd: Open "check.php" with some IDE
+3rd: Edit the Gateway information (URL, live and die messages, postfields...)
+4th: Enjoy!
+```
+
 
 ## Usage
 
 ```
-1st: Open "check.php" with some IDE
-2nd: Edit the Gateway information (URL, live and die messages, postfields...)
-3rd: Enjoy!
+Paste your credit card list into the text area and click "Start verification"
 ```
 
 ## Credits
 
-Vinicius Brokeh
+Vinicius Brokeh - _Developer_
