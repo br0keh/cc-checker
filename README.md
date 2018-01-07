@@ -2,12 +2,13 @@
 
 [![Build status](https://ci2.dot.net/job/dotnet_codeformatter/job/master/job/innerloop/badge/icon)](https://ci2.dot.net/job/dotnet_codeformatter/job/master/job/innerloop/)
 
-"PT-BR:" CC Checker código-aberto para estudos. 
-"EN:" Open-source card credit checker for studies.
+**PT-BR:** CC Checker código-aberto para estudos. 
+
+**EN:** Open-source card credit checker for studies.
 
 ## Installation
 
-Download project [Here](https://github.com/viniciusbrokeh/cc-checker/). Install on your website or XAMPP.
+Download project [here](https://github.com/viniciusbrokeh/cc-checker/). Install on your website or XAMPP.
 
 ## Usage
 
