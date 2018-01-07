@@ -2,7 +2,7 @@
 
 [![Build status](https://ci2.dot.net/job/dotnet_codeformatter/job/master/job/innerloop/badge/icon)](https://ci2.dot.net/job/dotnet_codeformatter/job/master/job/innerloop/)
 
-**PT-BR:** CC Checker código-aberto para estudos. 
+**PT-BR:** Testador de cartão de crédito código-aberto para estudos. 
 
 **EN:** Open-source card credit checker for studies.
 
