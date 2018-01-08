@@ -10,7 +10,7 @@
 
 
 ```
-1st: Download project [here](https://github.com/viniciusbrokeh/cc-checker/). Install on your website or XAMPP.
+1st: Download project andd Install on your website or localhost.
 2nd: Open "check.php" with some IDE
 3rd: Edit the Gateway information (URL, live and die messages, postfields...)
 4th: Enjoy!
@@ -20,7 +20,7 @@
 ## Usage
 
 ```
-Paste your credit card list into the text area and click "Start verification"
+Paste your credit card list into the text area and click "Start check"
 ```
 
 ## Credits
