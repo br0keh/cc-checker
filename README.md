@@ -10,7 +10,7 @@
 
 
 ```
-1st: Download project andd Install on your website or localhost.
+1st: Download project and install on your website or localhost.
 2nd: Open "check.php" with some IDE
 3rd: Edit the Gateway information (URL, live and die messages, postfields...)
 4th: Enjoy!
