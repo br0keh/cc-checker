@@ -1,3 +1,4 @@
-# CC Checker
+# CC Checker (old)
 
-u need to edit the check.php file
+
+**:fire: _[HOT]_ _NEW VERSION_: https://github.com/br0keh/ccc.js** 
