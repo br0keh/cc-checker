@@ -1,0 +1,11 @@
+{
+  "name": "cc-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/br0keh/cc-checker.git",
+  "author": "br0keh <abertoemail+8@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}

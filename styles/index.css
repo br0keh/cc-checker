@@ -1,17 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 * {
   margin: 0;
   padding: 0;
+
+  font-family: "Montserrat", sans-serif;
 }
 html,
 body {
   height: 100%;
 }
+h3 i {
+  font-weight: 100;
+}
 *:focus {
   outline: none;
 }
 #root {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
   width: 100%;
 }
 #checker {
@@ -25,24 +29,81 @@ body {
   padding: 10px 15px;
   width: 100%;
   border: none;
-  border-left: 3px solid goldenrod;
+  border-left: 3px solid #7153ca;
   height: 200px;
   font-size: 15px;
+  resize: none;
+  box-sizing: border-box;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 }
 #checker button {
   border: none;
-  background: goldenrod;
+  background: #7153ca;
   width: 10%;
   color: white;
   padding: 5px 10px;
   font-size: 15px;
   margin-top: 10px;
-  border-radius: 3px;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 3.5px;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2), -2px -2px 3px rgba(0, 0, 0, 0.08);
 }
 
 .repos-link {
   color: #555;
   text-decoration: none;
+  background: #f5f5f5;
+  padding: 5px 10px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2), -2px -2px 3px rgba(0, 0, 0, 0.08);
+}
+.repos-link strong i {
+  margin-right: 5px;
+}
+#results {
+  border-left: 3px solid goldenrod;
+  width: 100%;
+  margin: auto;
+  padding: 10px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  border-radius: 3.5px;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2), -2px -2px 3px rgba(0, 0, 0, 0.08);
+}
+#results > div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-radius: 3.5px;
+}
+#results .approved {
+  width: 100%;
+  border: 2px solid #4caf50;
+  color: #4caf50;
+  box-sizing: border-box;
+}
+#results > .approved > .cc {
+  background: #4caf50;
+  padding: 10px 20px;
+  color: white;
+}
+#results > div > .cc > i {
+  margin-right: 10px;
+}
+#results > div > .status {
+  padding: 10px;
+}
+#results > .declined > .cc {
+  background: #ef5350;
+  padding: 10px 20px;
+  color: white;
+}
+#results .declined {
+  width: 100%;
+  border: 2px solid #ef5350;
+  color: #ef5350;
+  box-sizing: border-box;
 }

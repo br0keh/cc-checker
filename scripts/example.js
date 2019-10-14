@@ -1,5 +1,5 @@
 // import Card Credit Checker JS
-const ccc = require("../../ccc");
+const ccc = require("./ccc");
 const $ = require("jquery");
 
 function filter_array(test_array) {
@@ -45,15 +45,36 @@ function start(CardList) {
         .then(result => {
           if (result.error) {
             $("#results").append(
-              `<p><strong>${Card}</strong> ${result.error}</p>`
+              `<div class="declined">
+             <div class="cc">
+               <i class="far fa-credit-card"></i> ${CardNumber} ${CardMonth}/${CardYear} ${CardCVV}
+             </div>
+             <div class="status">
+               <strong>${result.error}</strong>
+             </div>
+           </div>`
             );
           } else if (result.approved) {
             $("#results").append(
-              `<p><strong>${Card}</strong> Approved by Gateway</p>`
+              `<div class="approved">
+              <div class="cc">
+                <i class="far fa-credit-card"></i> ${CardNumber} ${CardMonth}/${CardYear} ${CardCVV}
+              </div>
+              <div class="status">
+                <strong>Payment approved!</strong>
+              </div>
+            </div>`
             );
           } else if (result.declined) {
             $("#results").append(
-              `<p><strong>${Card}</strong> Declined by Gateway</p>`
+              `<div class="declined">
+             <div class="cc">
+               <i class="far fa-credit-card"></i> ${CardNumber} ${CardMonth}/${CardYear} ${CardCVV}
+             </div>
+             <div class="status">
+               <strong>Card was declined.</strong>
+             </div>
+           </div>`
             );
           }
         })
@@ -71,6 +92,9 @@ $(document).ready(function() {
       .replace("\r", "")
       .split("\n");
     CardList = filter_array(CardList);
-    start(CardList);
+    $("#results").fadeIn(1000);
+    start(CardList).then(() => {
+      alert("Finished!");
+    });
   });
 });
