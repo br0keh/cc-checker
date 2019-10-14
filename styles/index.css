@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+}
+*:focus {
+  outline: none;
+}
+#root {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  width: 100%;
+}
+#checker {
+  width: 65%;
+  margin: auto;
+  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+}
+#card-credit-list {
+  padding: 10px 15px;
+  width: 100%;
+  border: none;
+  border-left: 3px solid goldenrod;
+  height: 200px;
+  font-size: 15px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+#checker button {
+  border: none;
+  background: goldenrod;
+  width: 10%;
+  color: white;
+  padding: 5px 10px;
+  font-size: 15px;
+  margin-top: 10px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.repos-link {
+  color: #555;
+  text-decoration: none;
+}
