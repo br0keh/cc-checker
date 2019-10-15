@@ -5,7 +5,7 @@
   "repository": "https://github.com/br0keh/cc-checker.git",
   "author": "br0keh",
   "scripts": {
-    "build": ""
+    "build": "echo BUILDING"
   },
   "license": "MIT",
   "dependencies": {
