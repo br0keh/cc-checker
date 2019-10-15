@@ -1,9 +1,12 @@
 {
   "name": "cc-checker",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "repository": "https://github.com/br0keh/cc-checker.git",
-  "author": "br0keh <abertoemail+8@gmail.com>",
+  "author": "br0keh",
+  "scripts": {
+    "build": "browserify .\\scripts\\example.js > example.bundle.js"
+  },
   "license": "MIT",
   "dependencies": {
     "jquery": "^3.4.1"
