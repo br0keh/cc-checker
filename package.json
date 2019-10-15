@@ -5,10 +5,11 @@
   "repository": "https://github.com/br0keh/cc-checker.git",
   "author": "br0keh",
   "scripts": {
-    "build": ""
+    "build": ".\\node_modules\\.bin\\browserify .\\scripts\\example.js > example.bundle.js"
   },
   "license": "MIT",
   "dependencies": {
+    "browserify": "^16.5.0",
     "jquery": "^3.4.1"
   }
 }
