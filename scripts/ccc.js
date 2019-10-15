@@ -43,6 +43,8 @@ async function check(
   // Payment Request Options
   let pRequestOptions = Options.config;
 
+  
+
   let pRequestData = String(pRequestOptions.data)
     .replace("<CARD>", card)
     .replace("<YEAR>", year)
