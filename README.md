@@ -7,4 +7,4 @@
 ---
 
 <p align=center>:computer: Screenshot</p>
-<img align="left" src="https://raw.githubusercontent.com/br0keh/cc-checker/master/assets/screenshot.png"/>
+<img align="left" src="https://raw.githubusercontent.com/br0keh/cc-checker/master/public/assets/screenshot.png"/>
