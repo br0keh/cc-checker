@@ -5,9 +5,9 @@
 <p align=center>Simple credit card checker made using <a href="https://github.com/br0keh/ccc.js/">ccc.js - Credit Card Check for JS</a></p>
 <p>dont works, only studies</p>
 
-Working checker in my Telegram https://t.me/Br0keh7 $40
-Working checker in my Telegram https://t.me/Br0keh7 $40
-Working checker in my Telegram https://t.me/Br0keh7 $40
+<p align=center>Working checker in my Telegram https://t.me/Br0keh7 $40</p>
+<p align=center>Working checker in my Telegram https://t.me/Br0keh7 $40</p>
+<p align=center>Working checker in my Telegram https://t.me/Br0keh7 $40</p>
 
 ---
 
