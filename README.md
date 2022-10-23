@@ -7,6 +7,11 @@
 
 <p align=center>2022/OCTUBER WORKING CHECKER: https://bcheck.herokuapp.com FREE SIGNUP!</p>
 <p align=center>2022/OCTUBER WORKING CHECKER: https://bcheck.herokuapp.com FREE SIGNUP!</p>
+<p align=center>2022/OCTUBER WORKING CHECKER: https://bcheck.herokuapp.com FREE SIGNUP!</p>
+<p align=center>2022/OCTUBER WORKING CHECKER: https://bcheck.herokuapp.com FREE SIGNUP!</p>
+
+
+<p align=center>TELEGRAM CONTACT https://t.me/Br0keh7</p>
 
 ---
 
