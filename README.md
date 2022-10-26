@@ -2,16 +2,16 @@
 
 ---
 
-<p align=center>Simple credit card checker made using <a href="https://github.com/br0keh/ccc.js/">ccc.js - Credit Card Check for JS</a></p>
+<p align=center>Simple credit card checker made using ccc.js</p>
 <p align=center>THIS CHECKER DONT WORKS YET. STUDIES ONLY!</p>
 
-<p align=center>2022/OCTUBER WORKING CHECKER: https://bcheck.herokuapp.com FREE SIGNUP!</p>
-<p align=center>2022/OCTUBER WORKING CHECKER: https://bcheck.herokuapp.com FREE SIGNUP!</p>
-<p align=center>2022/OCTUBER WORKING CHECKER: https://bcheck.herokuapp.com FREE SIGNUP!</p>
-<p align=center>2022/OCTUBER WORKING CHECKER: https://bcheck.herokuapp.com FREE SIGNUP!</p>
+<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com</p>
+<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com</p>
+<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com</p>
+<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com</p>
+<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com</p>
 
-
-<p align=center>TELEGRAM CONTACT https://t.me/Br0keh7</p>
+<p align=center>Telegram User: https://t.me/Br0keh7</p
 
 ---
 
