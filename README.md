@@ -10,8 +10,6 @@
 <p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.app (FREE CHECKS + BTC DEPOSIT)</p>
 <p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.app (FREE CHECKS + BTC DEPOSIT)</p>
 <p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.app (FREE CHECKS + BTC DEPOSIT)</p>
-<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.app (FREE CHECKS + BTC DEPOSIT)</p>
-<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.app (FREE CHECKS + BTC DEPOSIT)</p>
 
 <p align=center>Telegram User: https://t.me/Br0keh7</p
 
