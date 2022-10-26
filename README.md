@@ -3,13 +3,15 @@
 ---
 
 <p align=center>Simple credit card checker made using ccc.js</p>
-<p align=center>THIS CHECKER DONT WORKS YET. STUDIES ONLY!</p>
 
-<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com</p>
-<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com</p>
-<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com</p>
-<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com</p>
-<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com</p>
+<p align=center>This source is for studies only, sign up below TO USE A WORKING CHECKER:</p>
+<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com (FREE CHECKS + BTC DEPOSIT)</p>
+<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com (FREE CHECKS + BTC DEPOSIT)</p>
+<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com (FREE CHECKS + BTC DEPOSIT)</p>
+<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com (FREE CHECKS + BTC DEPOSIT)</p>
+<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com (FREE CHECKS + BTC DEPOSIT)</p>
+<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com (FREE CHECKS + BTC DEPOSIT)</p>
+<p align=center>OCTUBER, 2022: Checker is running! Go to https://bcheck.vercel.com (FREE CHECKS + BTC DEPOSIT)</p>
 
 <p align=center>Telegram User: https://t.me/Br0keh7</p
 
