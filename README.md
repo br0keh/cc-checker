@@ -5,7 +5,8 @@
 <p align=center>WORKING CHECKER https://bcheck.vercel.app (NOV/2022)</p>
 <p align=center>WORKING CHECKER https://bcheck.vercel.app (NOV/2022)</p>
 
-<p align=center>Telegram User: https://t.me/Br0keh7</p
+<p align=center>Telegram Group: https://t.me/BCheckCards</p>
+<p align=center>Telegram Group: https://t.me/BCheckCards</p>
 
 ---
 
